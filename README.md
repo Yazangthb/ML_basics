@@ -1,7 +1,8 @@
-ML Topics Reference Project
-This repository contains a small project designed as a reference for various core Machine Learning (ML) concepts.
+**ML Topics Reference Project
+This repository contains a small project designed as a reference for various core Machine Learning (ML) concepts.**
 
 The project incorporates code examples and demonstrations for the following topics:
+
 
 Cross-Validation: Techniques for evaluating model performance on unseen data.
 Regression Models: Predictive models for continuous target variables.
@@ -16,7 +17,7 @@ Data Pipelines: Building efficient and reusable data processing workflows.
 Residuals Analysis: Evaluating model fit by examining residuals.
 This project serves as a starting point for familiarization and experimentation with these fundamental ML concepts.
 
-Note:
+**Note:**
 
 Specific code examples and usage will vary depending on the chosen libraries (e.g., scikit-learn).
 Feel free to explore the code, modify examples, and experiment with different techniques!
