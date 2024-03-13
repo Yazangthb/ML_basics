@@ -5,16 +5,27 @@ The project incorporates code examples and demonstrations for the following topi
 
 
 Cross-Validation: Techniques for evaluating model performance on unseen data.
+
 Regression Models: Predictive models for continuous target variables.
+
 Hyperparameter Tuning: Optimizing model parameters for improved performance.
+
 Correlation Matrix: Exploring relationships between features.
+
 GridSearchCV: Automated hyperparameter search using Grid Search with Cross-Validation.
+
 Data Preprocessing: Preparing data for machine learning algorithms.
+
 Classification Models: Predictive models for categorical target variables.
+
 Data Visualization: Techniques for exploring and understanding data.
+
 Q-Q Plot: Assessing the normality of data distribution.
+
 Data Pipelines: Building efficient and reusable data processing workflows.
+
 Residuals Analysis: Evaluating model fit by examining residuals.
+
 This project serves as a starting point for familiarization and experimentation with these fundamental ML concepts.
 
 **Note:**
